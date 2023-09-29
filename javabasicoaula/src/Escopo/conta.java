@@ -1,4 +1,4 @@
-package Escopo;
+package javabasicoaula.src.Escopo;
 
 public class conta {
     
