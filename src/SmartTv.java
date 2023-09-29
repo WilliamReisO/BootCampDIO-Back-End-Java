@@ -1,4 +1,6 @@
-package javabasicoaula.src;
+package src;
+
+
 public class SmartTv {
     boolean ligada = false;
     int canal = 1;
