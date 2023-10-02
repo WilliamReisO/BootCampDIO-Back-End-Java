@@ -20,6 +20,10 @@ public class Usuario {
         smartTv.desligar();
         System.out.println(" Novo Status = Tv Ligada ? :" + smartTv.ligada +"/n");
 
+            int numero1 = 1;
+            String numero2 = "2";
+            System.out.println(numero1+numero2); 
+          }
     }
 
-}
+
